@@ -2,6 +2,10 @@
 
 Ragdoll module is a free open source module to use. It was written by @Tranquananh2811. If you encounter any problems with it or have any questions or suggestions just let me know on my discord (noob1183_) 😊
 
+## Setting up
+
+You can get the module source from `Ragdoll.lua` and then copy it and make a module in studio and paste it in the module.
+
 ## What does this module do
 
 This module will support R15 and R6 ragdoll. It is well optimized and very easy to use and configure.
