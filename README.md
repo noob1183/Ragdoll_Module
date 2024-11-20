@@ -12,7 +12,7 @@ local Players = game:GetService('Players')
 
 local RagdollMod = require(path.to.module)
 
-Players.CharacterAdded:Connect(function(Player: Player)
+Players.PlayerAdded:Connect(function(Player: Player)
   Player.CharacterAdded:Connect(function(Character: Model)
     --[[
 
